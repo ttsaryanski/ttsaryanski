@@ -4,6 +4,8 @@
 ## Technologies and tools
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 
 <!--
 **ttsaryanski/ttsaryanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
