@@ -1,6 +1,15 @@
 ### Hello! I am Tsvetan Tsaryanski 👋
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/tsvetan.tsaryanski)
 
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokenov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
+### GitHub Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ivaylokenov&rank=-C,-B" alt="GitHub Trophies" />
+
 <!--
 **ttsaryanski/ttsaryanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
