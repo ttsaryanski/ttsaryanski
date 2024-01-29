@@ -1,6 +1,10 @@
 ### Hello! I am Tsvetan Tsaryanski 👋
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/tsvetan.tsaryanski)
 
+## Technologies and tools
+
+<img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+
 <!--
 **ttsaryanski/ttsaryanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
