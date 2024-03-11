@@ -1,5 +1,6 @@
 ### Hello! I am Tsvetan Tsaryanski ! 👋
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/tsvetan.tsaryanski)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ttsaryanski@gmail.com)
 
 ## Technologies and tools
 
