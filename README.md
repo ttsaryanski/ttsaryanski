@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttsaryanski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=value&url=https%3A%2F%2Fcountapi.xyz%2Fhit%2Fttsaryanski-github%2Fprofile-views)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ttsaryanski)
 
 <!--
 **ttsaryanski/ttsaryanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
