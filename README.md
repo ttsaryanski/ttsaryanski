@@ -23,6 +23,7 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttsaryanski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://countapi.xyz/hit/ttsaryanski-github/profile-views)
 
 <!--
 **ttsaryanski/ttsaryanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
