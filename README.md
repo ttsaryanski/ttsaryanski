@@ -18,7 +18,6 @@
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="postman" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/postman-original.svg" />
 
 &nbsp;
 
